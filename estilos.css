@@ -1,0 +1,20 @@
+#menu{
+	position: relative;
+	left: 10px;
+	background:#DAF4FF;
+	height: 200px; 	/*alto*/
+	width: 180px;	/*ancho*/
+	top: 5px;			
+	font-family: arial;	/*letra que aun no se decide*/
+	padding-left: 10px; /* Espaciado de texto a la izquierda */
+	border-width: 3px;	/*tamaño del borde */
+	border-style: solid;	/* nomas porque se tiene que poner pa que charche */
+	border-color: #a3bdff;	/* colorsiwi bien bonis de borde */
+}
+
+#titulo{
+	position: relative;
+	left: 220px;
+	top: 5px;
+	border: solid black;
+}
