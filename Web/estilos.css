@@ -1,0 +1,51 @@
+#menu{
+	position: relative;
+	left: 10px;
+	background:#DAF4FF;
+	height: 200px; 	/*alto*/
+	width: 180px;	/*ancho*/
+	top: 5px;			
+	font-family: arial;	/*letra que aun no se decide*/
+	padding-left: 10px; /* Espaciado de texto a la izquierda */
+	border-width: 3px;	/*tamaño del borde */
+	border-style: solid;	/* nomas porque se tiene que poner pa que charche */
+	border-color: #a3bdff;	/* colorsiwi bien bonis de borde */
+}
+
+#titulo{
+	position: relative;
+	left: 220px;
+	bottom: 200px;
+	width: 1100px;
+	height: 55px;	/*alto*/
+	/*border: solid black;*/
+	text-align: center;
+}
+
+#logo{
+	position: relative;
+	left: 1340px;
+	bottom: 280px;
+}
+
+#bienvenida{
+	position: relative;
+	left: 220px;
+	bottom: 275px;
+	height: 90px;	/*alto*/
+	width: 1200px;
+	border-width: 3px;	/*tamaño del borde */
+	border-style: solid;	/* nomas porque se tiene que poner pa que charche */
+	border-color: #a3bdff;	/* colorsiwi bien bonis de borde */	
+	text-align: center;
+	padding-top: 25px;
+	font-size: 20px;
+}
+
+#anuncio{
+	position: relative;
+	left: 10px;
+	height: 200px;	/*alto*/
+	width: 180px;
+	border: solid black;
+}
