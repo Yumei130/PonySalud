@@ -1,0 +1,9 @@
+#info{
+	position: relative;
+	border: solid black;
+	background: white;
+	width: 500px;
+	text-align: center;
+	left: 500px;
+	top: 100px;
+}

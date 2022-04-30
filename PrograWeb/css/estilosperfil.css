@@ -1,0 +1,53 @@
+#perfil{
+	position: relative;
+	width: 250px;
+	top: 10px;
+	left: 10px;
+	height: 220px;	/*alto*/
+	border: solid black;
+	padding: 10px;
+	align-content: center;
+	text-align: center;
+}
+
+#usuario{
+	position: relative;
+	width: 350px;
+	height: 450px;
+	left: 320px;
+	bottom: 235px;
+	padding: 10px;
+	border: solid black;
+}
+
+#menu{
+	position: relative;
+	left: 10px;
+	background:#DAF4FF;
+	height: 190px; 	/*alto*/
+	width: 250px;	/*ancho*/
+	bottom: 450px;
+	padding: 10px;
+	font-family: arial;	/*letra que aun no se decide*/
+	padding-left: 10px; /* Espaciado de texto a la izquierda */
+	border-width: 3px;	/*tamaño del borde */
+	border-style: solid;	/* nomas porque se tiene que poner pa que charche */
+	border-color: #a3bdff;	/* colorsiwi bien bonis de borde */
+}
+
+#codigo{
+	position: relative;
+	left: 750px;
+	bottom: 900px;
+}
+
+#soporte{
+	position: relative;
+	left: 220px;
+	height: 25px;	/*alto*/
+	bottom: 790px;
+	width: 950px;
+	text-align: center;
+	padding-top: 5px;
+	font-size: 15px;
+}
