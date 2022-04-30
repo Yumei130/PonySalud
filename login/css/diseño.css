@@ -1,0 +1,84 @@
+#menu{
+  position: static;
+  left: 10px;
+  background:#DAF4FF;
+  height: 200px;  /*alto*/
+  width: 180px; /*ancho*/
+  top: 5px;     
+  font-family: arial; /*letra que aun no se decide*/
+  padding-left: 10px; /* Espaciado de texto a la izquierda */
+  border-width: 3px;  /*tamaño del borde */
+  border-style: solid;  /* nomas porque se tiene que poner pa que charche */
+  border-color: #a3bdff;  /* colorsiwi bien bonis de borde */
+}
+
+#titulo{
+position:relative; 
+left: 220px; 
+bottom: 200px;
+border: solid black;
+}
+
+#presentacion{
+  border-width: 3px;  
+  border-style: solid;
+  border-color: #a3bdff; 
+  background: white;
+  height:60px;  /*alto*/
+  width: 1300px; /*ancho*/ 
+}
+
+#nombre{
+  padding-left: 15px;
+  position: static;
+  left: 20px;
+  height:50px;  /*alto*/
+  width: 180px; /*ancho*/
+}
+
+#logo{
+  position: relative;
+  bottom: 65px;
+  left: 1230px; 
+  height:50px;  /*alto*/
+  width: 50px; /*ancho*/
+  }
+
+#login{ 
+  position: absolute ; 
+  left: 100px; top: 250px; 
+  border-width: 3px;  /*tamaño del borde */
+  border-style: solid;  /* nomas porque se tiene que poner pa que charche */
+  border-color: black;
+}
+
+#registro{ 
+  position: absolute ; 
+  left: 300px; top: 250px; 
+  border-width: 3px;  /*tamaño del borde */
+  border-style: solid;  /* nomas porque se tiene que poner pa que charche */
+  border-color: black;
+}
+
+#inicio{                        /*Inicio de la sesión*/
+  background:#DAF4FF;
+  border-width: 3px;  /*tamaño del borde */
+  border-style: solid;  /* nomas porque se tiene que poner pa que charche */
+  border-color: #a3bdff;  /* colorsiwi bien bonis de borde */
+  position: absolute ; 
+  height: 250px;                /*alto*/
+  width: 500px;                 /*ancho*/
+  left: 400px; 
+  top: 150px; 
+  text-align: center;
+  padding-top: 90px;
+}
+
+a {
+  background-color: powderblue;
+  transition: background-color .5s;
+}
+
+a:hover {
+  background-color: gold;
+}

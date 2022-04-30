@@ -1,0 +1,106 @@
+#menu{
+	position: relative;
+	left: 10px;
+	background:#DAF4FF;
+	height: 200px; 	/*alto*/
+	width: 180px;	/*ancho*/
+	top: 5px;			
+	font-family: arial;	/*letra que aun no se decide*/
+	padding-left: 10px; /* Espaciado de texto a la izquierda */
+	border-width: 3px;	/*tamaño del borde */
+	border-style: solid;	/* nomas porque se tiene que poner pa que charche */
+	border-color: #a3bdff;	/* colorsiwi bien bonis de borde */
+}
+
+#titulo{
+	position: relative;
+	left: 220px;
+	bottom: 200px;
+	width: 1100px;
+	height: 55px;	/*alto*/
+	/*border: solid black;*/
+	text-align: center;
+}
+
+#logo{
+	position: relative;
+	left: 1340px;
+	bottom: 280px;
+}
+
+#bienvenida{
+	position: relative;
+	left: 220px;
+	bottom: 275px;
+	height: 90px;	/*alto*/
+	width: 1200px;
+	border-width: 3px;	
+	border-style: solid;	
+	border-color: #a3bdff;	
+	text-align: center;
+	padding-top: 25px;
+	font-size: 20px;
+	background: #ffffff;
+}
+
+#anuncio{
+	position: relative;
+	left: 10px;
+	height: 300px;	/*alto*/
+	width: 180px;
+	bottom: 250px;
+}
+
+#descripcion{
+	position: relative;
+	left: 220px;
+	height: 200px;	/*alto*/
+	bottom: 550px;
+	width: 950px;
+	border-width: 3px;	
+	border-style: solid;	
+	border-color: #a3bdff;
+	text-align: center;
+	padding-top: 25px;
+	font-size: 20px;
+	background: #ffffff;
+}
+
+#imagen{
+	position: relative;
+	left: 1180px;
+	width: 240px;
+	height: 300px;	/*alto*/
+	bottom: 780px;
+}
+
+#soporte{
+	position: relative;
+	left: 220px;
+	height: 25px;	/*alto*/
+	bottom: 830px;
+	width: 950px;
+	text-align: center;
+	padding-top: 5px;
+	font-size: 15px;
+}
+
+#perfil{
+	position: relative;
+	width: 250px;
+	top: 10px;
+	left: 10px;
+	height: 220px;	/*alto*/
+	border: solid black;
+	padding: 10px;
+	align-content: center;
+	text-align: center;
+}
+
+#usuario{
+	position: relative;
+	width: 300px;
+	left: 300px;
+	bottom: 235px;
+	border: solid black;
+}
