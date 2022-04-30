@@ -1,0 +1,11 @@
+#titulo{
+	position: relative;
+	font-family: fantasy;
+	font-size: 60px;
+	text-align: center;
+}
+
+#imagen{
+	position: relative;
+	left: 430px;
+}

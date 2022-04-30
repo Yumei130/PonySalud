@@ -1,0 +1,39 @@
+
+
+#contenedor{
+   width: 440px;
+   height: 550px; 
+   align-content: center;
+   background-color: #DAF4FF;
+   color:black; 
+   padding: 10px;
+   font-size:18px;
+   font-family:"Georgia";
+   font-weight:bold;
+   font-style:normal;
+   line-height:30px;
+   letter-spacing:1px;
+   text-align:left;
+   text-indent:30px;
+   position: absolute;
+   top: 10%;
+   left: 35%;
+   margin: -25px 0 0 -25px; 
+   border-width: 3px;  
+   border-style: solid;
+   border-color: #a3bdff;
+}
+
+#reg{
+   width: 30%;
+   display: flex;
+   justify-content: center;
+   position: center;
+   background-color: #a3bdff;
+   font-size:15px;
+   font-family:"Georgia";
+   font-weight:bold;
+   font-style:normal;
+   letter-spacing:1px;
+   text-align:center;
+}
